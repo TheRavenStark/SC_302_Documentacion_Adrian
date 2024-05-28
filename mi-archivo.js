@@ -1,1 +1,2 @@
-alert("hola mundo_editado")
+alert("hola mundo_editado");
+Console.log("cambios en el archivo");
